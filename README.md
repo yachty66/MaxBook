@@ -8,7 +8,7 @@ Personal homepage where I start with tracking my projects.
 
 1. Increasing probabilities of finishing a project.
 
-2. Online reference. The personal book site is my personal digital garden and I can make all kinds of things public.
+2. Online reference. 
 
 ## Dependencies
 
