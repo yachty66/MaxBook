@@ -12,4 +12,6 @@ Personal homepage where I start with tracking my projects.
 
 ## Dependencies
 
-`pip install Markdown`
+`pip3 install GitPython`
+
+`pip3 install Markdown`
