@@ -30,7 +30,7 @@ Max's Book
 
 ### Reading papers
 - 07.08.2022
-- Aiming for ~10 pages per day except Sundays. I track them in (Mendeley)[https://www.mendeley.com/reference-management/reference-manager]. Could do a Python scrape to display them on this site.
+- Aiming for ~10 pages per day except Sundays. I track them [here](https://docs.google.com/spreadsheets/d/1noxRUYLUErYRgLNqh8eCceh41bSaRSQXW-Pz3WBKUL8/edit?usp=sharing]).
 
 ### Bachelor thesis
 - No date available.
@@ -55,7 +55,7 @@ Max's Book
 ### Machine learning from scratch
 - No date available.
 - 29.08.2022
-- Python implementation of the most popular machine learning algorithms [Githu](https://github.com/yachty66/MachineLearningFromScratch/blob/main/notes.md#1-writing-down-all-the-algorithms-i-wanna-implement).
+- Python implementation of the most popular machine learning algorithms [Github](https://github.com/yachty66/MachineLearningFromScratch/blob/main/notes.md#1-writing-down-all-the-algorithms-i-wanna-implement).
 
 
 ## Want to do
