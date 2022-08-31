@@ -11,13 +11,10 @@ from re import I
 from turtle import title
 from pyzotero import zotero
 import gspread
-library_id = '9964094'
-library_type = 'user'
-api_key = 'r4XtQH9FnWYc8GmVVF5lSuN7'
-
+import config
 
 def zotData():
-    zot = zotero.Zotero(library_id, library_type, api_key)
+    zot = zotero.Zotero(config.library_id, config.library_type, config.api_key)
     title = []
     date = []
     doi = []
