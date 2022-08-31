@@ -8,10 +8,6 @@ Max's Book
 - Date started
 - Description
 
-### Clibboard history
-- 29.08.2022
-- Python script which displays the last 10 clibboard results
-
 ### Max's Book
 - 29.08.2022
 - Personal hompage in one markdown file in a book format. Serves as project overview. The theory is that probabilities to finish a project increase if the project is written down.
@@ -45,6 +41,16 @@ Max's Book
 - Date finished
 - Description
 
+### Clibboard history
+- 29.08.2022
+- 30.08.2022
+- Python script which displays the last 10 clibboard results - [Github](https://github.com/yachty66/PythonWorkflowScripts/tree/main/ClipboardHistory).
+
+### Paper tracker
+- 31.08.2022
+- 31.08.2022
+- Adds the paper which I read from [Zotero](https://www.zotero.org/) to [Google Sheets](https://docs.google.com/spreadsheets/d/1noxRUYLUErYRgLNqh8eCceh41bSaRSQXW-Pz3WBKUL8/edit#gid=0) - [Github](https://github.com/yachty66/MaxBook/blob/main/getPapers.py).
+
 ## Discontinued
 
 ### Project name 
@@ -55,7 +61,7 @@ Max's Book
 ### Machine learning from scratch
 - No date available.
 - 29.08.2022
-- Python implementation of the most popular machine learning algorithms [Github](https://github.com/yachty66/MachineLearningFromScratch/blob/main/notes.md#1-writing-down-all-the-algorithms-i-wanna-implement).
+- Python implementation of the most popular machine learning algorithms [Github](https://github.com/yachty66/MachineLearningFromScratch/blob/main/notes.md#1-writing-down-all-the-algorithms-i-wanna-implement). I implemented two of ten.
 
 
 ## Want to do
@@ -63,6 +69,6 @@ Max's Book
 ### Project name 
 - Description
 
-# Papers
-## Paper
-- date added
+### Döner robot
+- ["Der Gerät"](https://de.wikipedia.org/wiki/Der_Ger%C3%A4t) only cuts meat. The process could be fully automated so that employees are not necessary anymore. People could choose their menu via app and the "Döner" machine outputs it. Disrupting 1000 "Döner" shops alone in [Berlin](https://www.berlin.de/tourismus/insidertipps/2036421-2339440-doener-kebab-ist-eine-berliner-erfindung.html#:~:text=Berlin%20gilt%20als%20%C2%ABHauptstadt%20des,%C2%ABdie%20Hauptstadt%20des%20D%C3%B6ners%C2%BB.).
+
