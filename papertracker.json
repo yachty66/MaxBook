@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "papertracker",
+  "private_key_id": "f2185b79c91d63b5b5ff066a031b5905faecdda8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCjeSpIUPyFShD0\n0pZ5QLYmFAK4ZUbF5UAuUJ288/VnVqED8xdvve8+Gf3pEyY61IfJwZRvFcGalZiX\nxXhHincn+5RkskBChX/BH7UkIc4e5clY+UoTwNPzz6aaXmj1ZjInHiOermi/7Pye\nXiERUZbZ9qOy//6oyfp/EFZtUSP/DZz3CXybhq3mIbg3LExa7qrF9tQW+AtBXi7Y\nWqbKJYBBpiKkvvsK/zQSISDiNMyBTOFrKmiRUp6g1A72DD75gwhCr7Z5WoWYfQZo\nbM5ND3S82U3Lr24bbnFIXr6T0nBrVBuT3yhHVHCJMTMl6vIeHCxsKtxKoPYGvlkm\nyIYV457PAgMBAAECggEATANpX9sYsLnyDIVnptYqXKZtZWTidd7V6zNdRaGC+RxV\nHssImNMOziez448d9bkhsvUqmkTZk5IANIKEHXALXDIlnHUuYEBHWXvu9PArMj7T\nU2YHxguiAvsJkzpXP9TXeU0QbxbWang+Nz25zp3LsWp4UCGtPrs8mZz1MzvJqyzg\nHqG8uKdTG9T5/iCcnhoIu5zVE/TyAmXCWDqHSUs4FShqmk3K0w44FZpXL/mutk2s\nP+efqTVvnDkeSFkP6Xdv8O/Fs1K0MqMypmG13cxWJAsaq3fCeqJMw5q7RKeGLrso\nxXxmi+oqefGfmUgknKtI1tj+E1jkeUZM62GU6IOIgQKBgQDiFRV79xtSLkO41xHp\nOF/8MJdkt0ndyIVswV5rcTWpe+7mzHXW6ekN34BKJki1Ya0hAUtZq1bdspgCVeUk\nZbWZQ9XijDzyEfzXHfCdKpUflAWABZGFmY4kVysWcsmVlBHjvgwHv/KlDTBL6z8D\nSH2X0BvmjE1uQTA9iQ8Qz8oaLwKBgQC5Gxhh701Ni4t9AWxWV+EAOTjJVmw3Y+oS\n7/LgrDumt7ujQBA+Ja5oss0WJ+4M3/pSgOxz0PS1AS4iODnaDmgGxkRO/GJqMzBI\nv5HYuxkr+f3vbAIi42JDUN9Bx/+S1Cftq1dnF1zEnJ0kOg1Y5MZnS67Qz8H/8weL\nnZpFyvW9YQKBgGbM/3/m1N2Be/nIkbRilgKudaiuT0AxtbnGE5D3YVc3q2H3Bn46\nzmYogsU0s0sGpxqi5AhaCJ22X7hwJkluliyi09a3vd60nyuRyZ8thbFeNUIJRiph\nsGiF2mnSuCbztU7BU+cSONskLBnZVkW/6JvnXUhv86V2ruDMObWDRnqxAoGBAKP+\n9HA4AoX0XwXGUASDYS3AhKYkckX0uHpEqisRjNvdJlmxNXLKEaZi2z6I6+fuPCoC\nXPsTIuqGfCgHJoIhh1qRKA3Onya16U5ao02gHeIPX0JSr+XXDMTVDqeKGM0uN53i\n0tHcKe1rT/G7mP2r2nfD3sLTfm5UE9hHLlotQeChAoGBAICAGprl2a/gRz/7Aibh\nGWdL/ZnXiS9qnsZywvJkmaI0cd4qHVd/CQx7LQFuvaKTWQdL5Mt/SeDKX6wroJhu\nl0+84XhqmX+lmDIsa8laxoTKjw3tbSWgwlYrsm5I8UDt5nc5FYS03SDKMQs60TEp\nUQQH9yo4ydBA4kaddyRrA4Fh\n-----END PRIVATE KEY-----\n",
+  "client_email": "maxhager@papertracker.iam.gserviceaccount.com",
+  "client_id": "102886965755249535633",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/maxhager%40papertracker.iam.gserviceaccount.com"
+}

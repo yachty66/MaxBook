@@ -8,6 +8,10 @@ Max's Book
 - Date started
 - Description
 
+### Clibboard history
+- 29.08.2022
+- Python script which displays the last 10 clibboard results
+
 ### Max's Book
 - 29.08.2022
 - Personal hompage in one markdown file in a book format. Serves as project overview. The theory is that probabilities to finish a project increase if the project is written down.
@@ -15,10 +19,6 @@ Max's Book
 ### Start Google Chrome in full screen
 - No date available.
 - Python solution for starting Google Chrome in full screen.
-
-### Machine learning from scratch
-- No date available.
-- Python implementation of the most popular machine learning algorithms.
 
 ### Ultramarathon
 - 17.07.2022
@@ -49,12 +49,20 @@ Max's Book
 
 ### Project name 
 - Date started
-- Date finished
+- Date discontinued
 - Description
+
+### Machine learning from scratch
+- No date available.
+- 29.08.2022
+- Python implementation of the most popular machine learning algorithms [Githu](https://github.com/yachty66/MachineLearningFromScratch/blob/main/notes.md#1-writing-down-all-the-algorithms-i-wanna-implement).
+
 
 ## Want to do
 
 ### Project name 
 - Description
 
-
+# Papers
+## Paper
+- date added
