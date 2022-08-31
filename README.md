@@ -21,5 +21,6 @@ Personal homepage where I start with tracking my projects.
 ### getPapers
 
 `pip3 pyzotero`
+
 `pip3 gspread`
 
