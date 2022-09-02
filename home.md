@@ -34,6 +34,14 @@ Max's Book
 
 ### Internship?
 
+### RosalindMl
+- 01.09.2022
+- Taking five tasks from [Rosalind](https://rosalind.info/about/) and formulating them into a machine learning problem. Solve problem by myself and creation of an notebook for others.
+
+### Upwork
+- 01.09.2022
+- Earning money with upwork. Get five Python gigs.
+
 ## Finished
 
 ### Project name 
