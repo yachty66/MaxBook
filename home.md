@@ -12,10 +12,6 @@ Max's Book
 - 29.08.2022
 - Personal hompage in one markdown file in a book format. Serves as project overview. The theory is that probabilities to finish a project increase if the project is written down.
 
-### Start Google Chrome in full screen
-- No date available.
-- Python solution for starting Google Chrome in full screen.
-
 ### Ultramarathon
 - 17.07.2022
 - Increasing running length every Sunday by 5 kilometers. So far at 40km. No goal about the ultimate length but 70km sounds great. Should try to sign up for official ultra marathon for having a real goal and some pressure otherwise to much doubt.
@@ -42,6 +38,10 @@ Max's Book
 - 01.09.2022
 - Earning money with upwork. Get five Python gigs.
 
+- ## Daily me
+- 02.09.2022
+- Script which executes the command of making a image of me from my Mac. ![Here](/Users/maxhager/Projects2022/PythonWorkflowScripts/DailyMe/dailyMe.html)
+
 ## Finished
 
 ### Project name 
@@ -53,6 +53,11 @@ Max's Book
 - 29.08.2022
 - 30.08.2022
 - Python script which displays the last 10 clibboard results - [Github](https://github.com/yachty66/PythonWorkflowScripts/tree/main/ClipboardHistory).
+
+### Start Google Chrome in full screen
+- No date available.
+- Python solution for starting Google Chrome in full screen.
+- 03.09.2022
 
 ### Paper tracker
 - 31.08.2022
