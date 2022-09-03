@@ -40,7 +40,7 @@ Max's Book
 
 - ## Daily me
 - 02.09.2022
-- Script which executes the command of making a image of me from my Mac. ![Here](/Users/maxhager/Projects2022/PythonWorkflowScripts/DailyMe/dailyMe.html)
+- Script which executes the command of making a image of me from my Mac. [Here](DailyMe/dailyMe.html).
 
 ## Finished
 

@@ -8,30 +8,10 @@ import markdown
 - [x] find out how to add links for daily image as link (with link to respective image so that this gets displayed) to html file 
 - [x] create python file for that 
 - [x] test if it works
-- [ ] add link to of html to home.md 
+- [x] add link to of html to home.md 
 - [ ] create crontab from python for that
 '''
 
-'''
-write on top of file image and above image date
-
-create md file -- add link to image -- convert to html everyday when image was uploaded
-
-
-link to html page is embedded in markdown. it exists a javascript file which adds based on how many images exist the name of the file as new link in html file 
-
-can I do this with python? for sure! lets figure that out in python 
-
-make image --> save image to folder with current date --> create link to site maxhager.xyz/dailyMe --> create link to site maxhager.xyz/dailyMe/2019-01-01 (site which lists all images from that day)
-
-create cronjob directly from python script - run it every day 3pm - get email if it fails 
-
-'''
-
-
-def test():
-    today = date.today()
-    print(today)
 
 
 def today():
