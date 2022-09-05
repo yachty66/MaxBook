@@ -10,9 +10,13 @@ import markdown
 - [x] test if it works
 - [x] add link to of html to home.md 
 - [ ] create crontab from python for that
+- [ ] clean code and add readme
+
+crontab every day 15:00 - first check if it works 
+send message to mail if cronjob fails
 '''
 
-
+import time
 
 def today():
     t = date.today()
@@ -21,13 +25,24 @@ def today():
 
 def makeImage():
     cam = cv2.VideoCapture(0)
-    # todo can be removed?
     cv2.namedWindow("test")
     t = today()
     ret, frame = cam.read()
+    #frame has in crontab no image. why?
+    #issue is cron does not have access to camera. possible workaround is https://apple.stackexchange.com/questions/384310/how-do-i-configure-camera-and-microphone-permission-on-macos-mojave
+    #other workaround is using applescript to take a picture and run it every 
+    #could write applescript and run this script and than add it to crontab
+        #i need a different terminal from where i run the script and use iterm for that
+        #so i create a apple script which calls py script with iterm
+        #before doing that I execute this py script with iterm
+    #other workaround is to run crontab manually. to much work
+    #writing a cronjob who executes a script from iterm2
+    
+
+
     # make image smaller
     frame = cv2.resize(frame, (0, 0), fx=0.35, fy=0.35)
-    img_name = "images/{}.png".format(t)
+    img_name = "/Users/maxhager/Projects2022/MaxBook/DailyMe/images/{}.png".format(t)
     cv2.imwrite(img_name, frame)
     #print("{} written!".format(img_name))
     cam.release()
@@ -36,7 +51,7 @@ def makeImage():
 
 def getFileContent():
     content = []
-    with open("dailyMe.md") as file:
+    with open("/Users/maxhager/Projects2022/MaxBook/DailyMe/dailyMe.md") as file:
         lines = file.readlines()
     for line in lines:
         content.append(line)
@@ -44,7 +59,7 @@ def getFileContent():
 
 
 def emptyFile():
-    with open("dailyMe.md", "w") as file:
+    with open("/Users/maxhager/Projects2022/MaxBook/DailyMe/dailyMe.md", "w") as file:
         file.write("")
 
 
@@ -57,21 +72,20 @@ def addImage():
     content.insert(0, image)
     content.insert(0, t)
     # add image from makeImage() to images.md
-    with open("dailyMe.md", "a") as file:
+    with open("/Users/maxhager/Projects2022/MaxBook/DailyMe/dailyMe.md", "a") as file:
         for line in content:
             file.write(line)
 
 
 def convertToHtml():
     markdown.markdownFromFile(
-        input='dailyMe.md',
-        output='dailyMe.html'
+        input='/Users/maxhager/Projects2022/MaxBook/DailyMe/dailyMe.md',
+        output='/Users/maxhager/Projects2022/MaxBook/DailyMe/dailyMe.html'
     )
 
 
 if __name__ == "__main__":
+    print("SHOULD APPEAR")
     makeImage()
     addImage()
     convertToHtml()
-    # run should output date - image - [date](![2022-09-03](images/h.png))
-    pass
