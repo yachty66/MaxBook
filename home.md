@@ -12,10 +12,6 @@ Max's Book
 - 29.08.2022
 - Personal hompage in one markdown file in a book format. Serves as project overview. The theory is that probabilities to finish a project increase if the project is written down.
 
-### Ultramarathon
-- 17.07.2022
-- Increasing running length every Sunday by 5 kilometers. So far at 40km. No goal about the ultimate length but 70km sounds great. Should try to sign up for official ultra marathon for having a real goal and some pressure otherwise to much doubt.
-
 ### Reading books
 - No date available.
 - Aiming for ~50 pages a day except Sundays. [Goodreads](https://www.goodreads.com/review/list/118878574?ref=nav_mybooks). Could do a Python scrape to display them on this site.
@@ -38,9 +34,18 @@ Max's Book
 - 01.09.2022
 - Earning money with upwork. Get five Python gigs.
 
-- ## Daily me
+### Daily me
 - 02.09.2022
 - Script which executes the command of making a image of me from my Mac. [Here](DailyMe/dailyMe.html).
+
+### Mbti type prediction
+- 05.09.2022
+- Mbti type prediction via machine learning. 
+
+### Upwork job alerts
+- 06.09.2022
+- Script which sends me a notification of a new job search result 
+
 
 ## Finished
 
@@ -63,6 +68,16 @@ Max's Book
 - 31.08.2022
 - 31.08.2022
 - Adds the paper which I read from [Zotero](https://www.zotero.org/) to [Google Sheets](https://docs.google.com/spreadsheets/d/1noxRUYLUErYRgLNqh8eCceh41bSaRSQXW-Pz3WBKUL8/edit#gid=0) - [Github](https://github.com/yachty66/MaxBook/blob/main/getPapers.py).
+
+### Ultramarathon
+- 17.07.2022
+- Increasing running length every Sunday by 5 kilometers. Stopped at 45km.
+- 04.09.2022
+
+### Philipps Hue cli controller
+- 06.09.2022 
+- Control my room lights via cli.
+- 06.09.2022
 
 ## Discontinued
 
