@@ -42,10 +42,9 @@ Max's Book
 - 05.09.2022
 - Mbti type prediction via machine learning. 
 
-### Upwork job alerts
-- 06.09.2022
-- Script which sends me a notification of a new job search result 
-
+### HuggingFace course 
+- 07.09.2022 
+- Doing [this](https://huggingface.co/course/chapter1/1) course.
 
 ## Finished
 
@@ -66,8 +65,8 @@ Max's Book
 
 ### Paper tracker
 - 31.08.2022
-- 31.08.2022
 - Adds the paper which I read from [Zotero](https://www.zotero.org/) to [Google Sheets](https://docs.google.com/spreadsheets/d/1noxRUYLUErYRgLNqh8eCceh41bSaRSQXW-Pz3WBKUL8/edit#gid=0) - [Github](https://github.com/yachty66/MaxBook/blob/main/getPapers.py).
+- 31.08.2022
 
 ### Ultramarathon
 - 17.07.2022
@@ -78,6 +77,11 @@ Max's Book
 - 06.09.2022 
 - Control my room lights via cli.
 - 06.09.2022
+
+### Upwork job alerts
+- 06.09.2022
+- Script which sends me a notification of a new job search result 
+- 07.09.2022
 
 ## Discontinued
 

@@ -3,6 +3,10 @@ import cv2
 import markdown
 
 '''
+Notes:
+    - tccutil reset Camera -> for reseting camera settings 
+    open -a /Users/maxhager/Projects2022/MaxBook/DailyMe/test.app
+
 - [x] folder
 - [x] make image with current date and add to folder
 - [x] find out how to add links for daily image as link (with link to respective image so that this gets displayed) to html file 
@@ -14,6 +18,8 @@ import markdown
 
 crontab every day 15:00 - first check if it works 
 send message to mail if cronjob fails
+
+problem is that I do not get the cronjob executed with the script I created
 '''
 
 import time
