@@ -34,10 +34,6 @@ Max's Book
 - 01.09.2022
 - Earning money with upwork. Get five Python gigs.
 
-### Daily me
-- 02.09.2022
-- Script which executes the command of making a image of me from my Mac. [Here](DailyMe/dailyMe.html).
-
 ### Mbti type prediction
 - 05.09.2022
 - Mbti type prediction via machine learning. 
@@ -81,6 +77,11 @@ Max's Book
 ### Upwork job alerts
 - 06.09.2022
 - Script which sends me a notification of a new job search result 
+- 07.09.2022
+
+### Daily me
+- 02.09.2022
+- Script which executes the command of making a image of me from my Mac. [Here](DailyMe/dailyMe.html).
 - 07.09.2022
 
 ## Discontinued
