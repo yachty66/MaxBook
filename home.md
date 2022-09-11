@@ -42,6 +42,14 @@ Max's Book
 - 07.09.2022 
 - Doing [this](https://huggingface.co/course/chapter1/1) course.
 
+### Daily GAN generated backround image
+- 08.09.2022
+- Daily GAN generated backround image for my laptop backround.
+
+### Transactions overview
+- 08.09.2022
+- Transfer all my N26 transaction data to Google Sheets. [Github](https://github.com/yachty66/TransactionsOverview).
+
 ## Finished
 
 ### Project name 
@@ -76,7 +84,7 @@ Max's Book
 
 ### Upwork job alerts
 - 06.09.2022
-- Script which sends me a notification of a new job search result 
+- Script which sends me a notification of a new job search result.
 - 07.09.2022
 
 ### Daily me
@@ -84,6 +92,17 @@ Max's Book
 - Script which executes the command of making a image of me from my Mac. [Here](DailyMe/dailyMe.html).
 - 07.09.2022
 
+- ### Screenshot cleaner
+- 07.09.2022
+- Python script which cleans my screenshots folder every Sunday. [Github](https://github.com/yachty66/PythonWorkflowScripts/tree/main/deleteScreenshots).
+- 07.09.2022
+
+### Stackoverflow profile hiding
+- 07.09.2022
+- Chrome extension which hides profiles on Stackoverflow. [Github](https://github.com/yachty66/StackoverflowProfileHiding).
+- 08.09.2022
+
+ 
 ## Discontinued
 
 ### Project name 
