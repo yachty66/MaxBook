@@ -88,7 +88,7 @@ Max's Book
 - Script which executes the command of making a image of me from my Mac. [Here](DailyMe/dailyMe.html).
 - 07.09.2022
 
-- ### Screenshot cleaner
+### Screenshot cleaner
 - 07.09.2022
 - Python script which cleans my screenshots folder every Sunday. [Github](https://github.com/yachty66/PythonWorkflowScripts/tree/main/deleteScreenshots).
 - 07.09.2022
