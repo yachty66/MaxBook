@@ -46,10 +46,6 @@ Max's Book
 - 08.09.2022
 - Daily GAN generated backround image for my laptop backround.
 
-### Transactions overview
-- 08.09.2022
-- Transfer all my N26 transaction data to Google Sheets. [Github](https://github.com/yachty66/TransactionsOverview).
-
 ## Finished
 
 ### Project name 
@@ -102,6 +98,20 @@ Max's Book
 - Chrome extension which hides profiles on Stackoverflow. [Github](https://github.com/yachty66/StackoverflowProfileHiding).
 - 08.09.2022
 
+### Stealth mode project
+- 11.09.2022
+- Private
+- 13.09.2022
+
+### Transactions overview
+- 08.09.2022
+- Transfer all my N26 transaction data to Google Sheets. [Github](https://github.com/yachty66/TransactionsOverview).
+- 14.09.2022
+
+### 14.09.2022
+- 14.09.202
+- Scraped all the content of [Paul Grahams Essays](http://www.paulgraham.com/articles.html) into a PDF. [Github](https://github.com/yachty66/PaulGrahamBook).
+- 16.09.202
  
 ## Discontinued
 
