@@ -60,58 +60,58 @@ Max's Book
 
 ### Start Google Chrome in full screen
 - No date available.
-- Python solution for starting Google Chrome in full screen.
 - 03.09.2022
+- Python solution for starting Google Chrome in full screen.
 
 ### Paper tracker
 - 31.08.2022
-- Adds the paper which I read from [Zotero](https://www.zotero.org/) to [Google Sheets](https://docs.google.com/spreadsheets/d/1noxRUYLUErYRgLNqh8eCceh41bSaRSQXW-Pz3WBKUL8/edit#gid=0) - [Github](https://github.com/yachty66/MaxBook/blob/main/getPapers.py).
 - 31.08.2022
+- Adds the paper which I read from [Zotero](https://www.zotero.org/) to [Google Sheets](https://docs.google.com/spreadsheets/d/1noxRUYLUErYRgLNqh8eCceh41bSaRSQXW-Pz3WBKUL8/edit#gid=0) - [Github](https://github.com/yachty66/MaxBook/blob/main/getPapers.py).
 
 ### Ultramarathon
 - 17.07.2022
-- Increasing running length every Sunday by 5 kilometers. Stopped at 45km.
 - 04.09.2022
+- Increasing running length every Sunday by 5 kilometers. Stopped at 45km.
 
 ### Philipps Hue cli controller
 - 06.09.2022 
-- Control my room lights via cli.
 - 06.09.2022
+- Control my room lights via cli.
 
 ### Upwork job alerts
 - 06.09.2022
-- Script which sends me a notification of a new job search result.
 - 07.09.2022
+- Script which sends me a notification of a new job search result.
 
 ### Daily me
 - 02.09.2022
-- Script which executes the command of making a image of me from my Mac. [Here](DailyMe/dailyMe.html).
 - 07.09.2022
+- Script which executes the command of making a image of me from my Mac. [Here](DailyMe/dailyMe.html).
 
 ### Screenshot cleaner
 - 07.09.2022
-- Python script which cleans my screenshots folder every Sunday. [Github](https://github.com/yachty66/PythonWorkflowScripts/tree/main/deleteScreenshots).
 - 07.09.2022
+- Python script which cleans my screenshots folder every Sunday. [Github](https://github.com/yachty66/PythonWorkflowScripts/tree/main/deleteScreenshots).
 
 ### Stackoverflow profile hiding
 - 07.09.2022
-- Chrome extension which hides profiles on Stackoverflow. [Github](https://github.com/yachty66/StackoverflowProfileHiding).
 - 08.09.2022
+- Chrome extension which hides profiles on Stackoverflow. [Github](https://github.com/yachty66/StackoverflowProfileHiding).
 
 ### Stealth mode project
 - 11.09.2022
-- Private
 - 13.09.2022
+- Private
 
 ### Transactions overview
 - 08.09.2022
-- Transfer all my N26 transaction data to Google Sheets. [Github](https://github.com/yachty66/TransactionsOverview).
 - 14.09.2022
+- Transfer all my N26 transaction data to Google Sheets. [Github](https://github.com/yachty66/TransactionsOverview).
 
 ### Paul Graham essays book
-- 14.09.202
+- 14.09.2022
+- 16.09.2022
 - Scraped all the content of [Paul Grahams Essays](http://www.paulgraham.com/articles.html) into a PDF. [Github](https://github.com/yachty66/PaulGrahamBook).
-- 16.09.202
  
 ## Discontinued
 
