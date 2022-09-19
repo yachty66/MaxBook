@@ -85,7 +85,7 @@ Max's Book
 
 ### Daily me
 - 02.09.2022
-- Script which executes the command of making a image of me from my Mac. [Here](DailyMe/dailyMe.htmjl).
+- Script which executes the command of making a image of me from my Mac. [Here](DailyMe/dailyMe.html).
 - 07.09.2022
 
 ### Screenshot cleaner
@@ -108,7 +108,7 @@ Max's Book
 - Transfer all my N26 transaction data to Google Sheets. [Github](https://github.com/yachty66/TransactionsOverview).
 - 14.09.2022
 
-### 14.09.2022
+### Paul Graham essays book
 - 14.09.202
 - Scraped all the content of [Paul Grahams Essays](http://www.paulgraham.com/articles.html) into a PDF. [Github](https://github.com/yachty66/PaulGrahamBook).
 - 16.09.202
