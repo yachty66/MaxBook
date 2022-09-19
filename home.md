@@ -1,4 +1,4 @@
-Max's Book TEST
+Max's Book
 
 [TOC]
 
@@ -85,7 +85,7 @@ Max's Book TEST
 
 ### Daily me
 - 02.09.2022
-- Script which executes the command of making a image of me from my Mac. [Here](DailyMe/dailyMe.html).
+- Script which executes the command of making a image of me from my Mac. [Here](DailyMe/dailyMe.htmjl).
 - 07.09.2022
 
 ### Screenshot cleaner
