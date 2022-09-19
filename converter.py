@@ -22,7 +22,8 @@ def pushToGithub():
         "/Users/maxhager/Projects2022/MaxBook/converter.py",
         "/Users/maxhager/Projects2022/MaxBook/index.html",
         "/Users/maxhager/Projects2022/MaxBook/home.md",
-        "/Users/maxhager/Projects2022/MaxBook/README.md"
+        "/Users/maxhager/Projects2022/MaxBook/README.md",
+        "/Users/maxhager/Projects2022/MaxBook/DailyMe/dailyMe.html"
     ]
     commit_message = 'Update'
     repo.index.add(file_list)
