@@ -4,6 +4,7 @@
 '''
 import markdown
 from git import Repo
+import sys
 import os
 import subprocess
 import config
@@ -19,6 +20,7 @@ def convert():
 
 
 def pushToGithub():
+    #some new comment
     subprocess.call(['git', 'add', '.'], cwd='/Users/maxhager/Projects2022/MaxBook')
     subprocess.call(['git', 'commit', '-m', 'update'], cwd='/Users/maxhager/Projects2022/MaxBook')
     subprocess.call(['git', 'push', 'https://{}@github.com/yachty66/MaxBook.git'.format(config.tokenGit)], cwd='/Users/maxhager/Projects2022/MaxBook')
