@@ -20,7 +20,7 @@ def convert():
 
 def pushToGithub():
     subprocess.call(['git', 'add', '.'], cwd='/Users/maxhager/Projects2022/MaxBook')
-    subprocess.call(['git', 'commit', '-m', '{}'.format("Update")], cwd='/Users/maxhager/Projects2022/MaxBook')
+    subprocess.call(['git', 'commit', '-m', 'Update'], cwd='/Users/maxhager/Projects2022/MaxBook')
     subprocess.call(['git', 'push', 'https://{}@github.com/yachty66/MaxBook.git'.format(config.tokenGit)], cwd='/Users/maxhager/Projects2022/MaxBook')
     '''repo_dir = '/Users/maxhager/Projects2022/MaxBook'
     repo = Repo(repo_dir)
