@@ -25,8 +25,8 @@ Max's Book
 - Evaluating a topic and finding a partner for bachelor thesis 
 
 ### Internship
-- No date available 
-- Finding a internship position 
+- 04.10.2022
+- Internship at [KIWI Biolab](https://kiwi-biolab.de/)
 
 ### Text autocompletion VSC plugin 
 - 23.09.2022
@@ -36,9 +36,9 @@ Max's Book
 - 01.10.2022
 - Building a application with which I can read my books via reaading and listening.
 
-### Crontab manager
-- 03.10.2022
-- Write my cronjobs to crontab and sending email to me if cronjob did not work. Everything in Python.
+### Glucose prediction sensor
+- 04.10.2022 
+- Glucose prediction sensor for robotics automation process.
 
 ## Finished
 
@@ -121,6 +121,11 @@ Max's Book
 - 30.09.2022
 - 02.10.2022
 - Started 10:00. My goal is to eat nothing for 56 hours.
+
+### Crontab manager
+- 03.10.2022
+- 03.10.2022
+- Write my cronjobs to crontab and sending email to me if cronjob did not work. Everything in Python.
  
 ## Discontinued
 
