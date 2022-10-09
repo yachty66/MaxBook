@@ -40,6 +40,10 @@ Max's Book
 - 04.10.2022 
 - Glucose prediction sensor for robotics automation process.
 
+### Poker raise/call
+- 09.10.2022
+- Predicts if raising or calling in poker game 
+
 ## Finished
 
 ### Project name 
@@ -112,7 +116,7 @@ Max's Book
 - 18.09.2022
 - We build a sleep coach for Alexa with GPT-3. [Devpost](https://devpost.com/software/nox-sleep-coach?ref_content=contribution-prompt&ref_feature=engagement&ref_medium=email&utm_campaign=contribution-prompt&utm_content=contribution_reminder&utm_medium=email&utm_source=transactional#app-team).
 
-## \\Slash 
+### \\Slash 
 - 24.09.2022
 - 25.09.2022
 - Hackathon organized from students of [CODE University](https://code.berlin/en/). We created a Avatar in a virtual environment backed by a language model. 
