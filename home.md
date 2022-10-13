@@ -14,7 +14,7 @@ Max's Book
 
 ### Reading books
 - No date available.
-- Aiming for ~50 pages a day except Sundays. [Goodreads](https://www.goodreads.com/review/list/118878574?ref=nav_mybooks). Could do a Python scrape to display them on this site.
+- Aiming for ~50 pages a day except Sundays. [Goodreads](https://www.goodreads.com/review/list/118878574?ref=nav_mybooks).
 
 ### Reading papers
 - 07.08.2022
@@ -28,21 +28,22 @@ Max's Book
 - 04.10.2022
 - Internship at [KIWI Biolab](https://kiwi-biolab.de/)
 
-### Text autocompletion VSC plugin 
-- 23.09.2022
-- Text autocompletion for markdown files.
-
-### Natural Reader copy 
-- 01.10.2022
-- Building a application with which I can read my books via reaading and listening.
-
 ### Glucose prediction sensor
 - 04.10.2022 
-- Glucose prediction sensor for robotics automation process.
+- Glucose prediction sensor in Hamilton setup.
 
-### Poker raise/call
-- 09.10.2022
-- Predicts if raising or calling in poker game 
+### Distributed systems
+- 13.10.2022
+- Uni module 
+
+### Component based development
+- 13.10.2022
+- Uni module
+
+### Project management
+- 13.10.2022
+- Uni module
+
 
 ## Finished
 
@@ -153,7 +154,6 @@ Max's Book
 - 25.09.2022
 - Earning money with upwork. Get five Python gigs.
 
-
 ### Mbti type prediction
 - 05.09.2022
 - 25.09.2022
@@ -168,6 +168,11 @@ Max's Book
 - 08.09.2022
 - 29.09.2022
 - Daily GAN generated backround image for my laptop backround. I stopped because I was not satisfied with the image quality of the generated images.
+
+### Text autocompletion VSC plugin 
+- 23.09.2022
+- 13.10.2022
+- Text autocompletion for markdown files.
 
 ## Want to do
 
