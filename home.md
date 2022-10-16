@@ -131,6 +131,16 @@ Max's Book
 - 03.10.2022
 - 03.10.2022
 - Write my cronjobs to crontab and sending email to me if cronjob did not work. Everything in Python.
+
+### ChromeProjectsOverview
+- 14.10.2022
+- 15.10.2022
+- [Link to project](https://janjackson.github.io/interview_pipeline/)
+
+### ChromeExten 
+- 15.10.2022
+- 16.10.2022
+- Chrome extension (not published) which is scraping my current projects from this side and addds them all on every new tab in GChrome.
  
 ## Discontinued
 
