@@ -2,26 +2,6 @@ from datetime import date
 import cv2
 import markdown
 
-'''
-Notes:
-    - tccutil reset Camera -> for reseting camera settings 
-    open -a /Users/maxhager/Projects2022/MaxBook/DailyMe/test.app
-
-- [x] folder
-- [x] make image with current date and add to folder
-- [x] find out how to add links for daily image as link (with link to respective image so that this gets displayed) to html file 
-- [x] create python file for that 
-- [x] test if it works
-- [x] add link to of html to home.md 
-- [ ] create crontab from python for that
-- [ ] clean code and add readme
-
-crontab every day 15:00 - first check if it works 
-send message to mail if cronjob fails
-
-problem is that I do not get the cronjob executed with the script I created
-'''
-
 import time
 
 def today():
@@ -34,17 +14,6 @@ def makeImage():
     cv2.namedWindow("test")
     t = today()
     ret, frame = cam.read()
-    #frame has in crontab no image. why?
-    #issue is cron does not have access to camera. possible workaround is https://apple.stackexchange.com/questions/384310/how-do-i-configure-camera-and-microphone-permission-on-macos-mojave
-    #other workaround is using applescript to take a picture and run it every 
-    #could write applescript and run this script and than add it to crontab
-        #i need a different terminal from where i run the script and use iterm for that
-        #so i create a apple script which calls py script with iterm
-        #before doing that I execute this py script with iterm
-    #other workaround is to run crontab manually. to much work
-    #writing a cronjob who executes a script from iterm2
-    
-
 
     # make image smaller
     frame = cv2.resize(frame, (0, 0), fx=0.35, fy=0.35)
@@ -91,7 +60,6 @@ def convertToHtml():
 
 
 if __name__ == "__main__":
-    print("SHOULD APPEAR")
     makeImage()
     addImage()
     convertToHtml()
