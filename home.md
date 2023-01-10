@@ -16,10 +16,6 @@ Max's Book
 - No date available.
 - Aiming for ~50 pages a day except Sundays. [Goodreads](https://www.goodreads.com/review/list/118878574?ref=nav_mybooks).
 
-### Reading papers
-- 07.08.2022
-- Aiming for ~10 pages per day except Sundays. I track them [here](https://docs.google.com/spreadsheets/d/1noxRUYLUErYRgLNqh8eCceh41bSaRSQXW-Pz3WBKUL8/edit?usp=sharing]).
-
 ### Bachelor thesis
 - No date available.
 - Evaluating a topic and finding a partner for bachelor thesis 
